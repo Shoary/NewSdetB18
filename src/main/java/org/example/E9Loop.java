@@ -1,6 +1,6 @@
 package org.example;
 
-public class Loop9 {
+public class E9Loop {
 
     public static void main(String[] args) {
          {

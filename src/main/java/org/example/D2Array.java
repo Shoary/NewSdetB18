@@ -1,6 +1,6 @@
 package org.example;
 
-public class E2Array {
+public class D2Array {
     public static void main(String[] args) {
         int[][] matrix={
                 {10,20,50},

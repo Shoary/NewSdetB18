@@ -1,2 +1,13 @@
-package org.example;public class ELoop11 {
+package org.example;
+
+public class ELoop11 {
+
+    public static void main(String[] args) {
+
+        for (int i = 1; i <= 100; i++) {
+            System.out.print(i + " ");
+        }
+    }
 }
+
+

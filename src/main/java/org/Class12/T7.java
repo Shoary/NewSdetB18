@@ -1,2 +1,4 @@
-package org.Class12;public class T7 {
+package org.Class12;
+
+public class T7 {
 }
