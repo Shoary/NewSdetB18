@@ -1,0 +1,3 @@
+Super Keyword:
+super keyword is used to access fields , methods, constructors from the parent class. when there is an inheritance
+relationship between classes.

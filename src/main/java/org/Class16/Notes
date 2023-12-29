@@ -1,0 +1,14 @@
+Inheritance:
+ allows us to build classes from existing classes . we can inherit files and methods from existing classes
+ if we need them in other classes
+ there are 5
+ 1. Single Inheritance
+ 2.Multiple Inheritance (through Interfaces)
+ 3.Multilevel Inheritance
+ 4.Hierarchical Inheritance:
+ 5.Hybrid
+
+
+
+
+
