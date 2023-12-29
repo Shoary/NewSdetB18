@@ -12,6 +12,9 @@ public class PolyTester {
             a.printInfo();
 
             System.out.println(a.getName());
+            //  if (a instanceof Dog){
         }
+        // Dog d2=(Dog)a;
+        //   d2.run();
     }
 }

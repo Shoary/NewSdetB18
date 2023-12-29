@@ -45,6 +45,10 @@ public abstract class Animal {
         super.printInfo();
           System.out.println(breed);
       }
+
+      void run() {
+          System.out.println("Dog Running very fast");
+      }
   }
   class Cat extends Animal{
 
