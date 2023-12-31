@@ -85,7 +85,7 @@ public class ClassStudent {
             performStudentActivities(schoolStudent);
         }
 
-        static void performStudentActivities(Student student) {
+        void performStudentActivities(Student student) {
             student.study();
             student.participateInActivities();
             student.attendClasses();
